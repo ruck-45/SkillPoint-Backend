@@ -12,8 +12,20 @@ router.get("/allInfo", (req, res) => {
   res.status(200).json(courseInfo);
 });
 
-router.get("/courseCount", (req, res) => {
-  res.status(200).json(courseInfo.length);
+router.get("/courseInfo/:start/:end/:search", (req, res) => {
+  const [startStatus, start] = isInt(req.params.start);
+  const [endStatus, end] = isInt(req.params.end);
+
+  const search = req.params.search.toLowerCase();
+
+  if (startStatus && endStatus) {
+    const filteredData = courseInfo.filter(
+      (ele) => ele.name.toLowerCase().includes(search) || ele.instructor.toLowerCase().includes(search)
+    );
+    res.status(200).json({ data: filteredData.slice(start - 1, end), length: filteredData.length });
+  } else {
+    res.status(404).end();
+  }
 });
 
 router.get("/courseInfo/:start/:end", (req, res) => {
@@ -21,7 +33,7 @@ router.get("/courseInfo/:start/:end", (req, res) => {
   const [endStatus, end] = isInt(req.params.end);
 
   if (startStatus && endStatus) {
-    res.status(200).json(courseInfo.slice(start-1, end));
+    res.status(200).json({ data: courseInfo.slice(start - 1, end), length: courseInfo.length });
   } else {
     res.status(404).end();
   }
@@ -50,7 +62,7 @@ router.get("/courseDetail/:id", (req, res) => {
 router.get("/getCourse/:id", (req, res) => {
   const [status, id] = isInt(req.params.id);
 
-  if (status && id<=courseInfo.length) {
+  if (status && id <= courseInfo.length) {
     res.status(200).json(courseInfo[id - 1]);
   } else {
     res.status(404).end();
