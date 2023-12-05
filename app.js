@@ -3,7 +3,7 @@ const cors = require("cors");
 
 const courses = require("./routes/courses");
 const users = require("./routes/users");
-const port = 5000;
+const port = proess.env.PORT || 5000;
 
 const app = express();
 app.use(cors());
@@ -17,7 +17,7 @@ app.all("*", (req, res) => {
 });
 
 
-// Server Listen
+// Listen on port 5000
 app.listen(port, () => {
   console.log("Server Listening on PORT:", port);
 });
