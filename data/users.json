@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Zoey Gabrielle Turner",
+    "email": "zoey@example.com",
+    "profession": "student",
+    "bio": "Web development student, Problem solver, and Tech Enthusiast. Passionate about creating digital experiences. Explores trends, attends meetups, and contributes to open-source projects. Believes in tech's power to connect people. Excited to make a mark!",
+    "courses": [
+      { "id": 1, "progress": 100 },
+      { "id": 3, "progress": 51 },
+      { "id": 5, "progress": 51 },
+      { "id": 6, "progress": 100 },
+      { "id": 8, "progress": 100 },
+      { "id": 9, "progress": 100 },
+      { "id": 10, "progress": 100 },
+      { "id": 12, "progress": 100 },
+      { "id": 15, "progress": 63 },
+      { "id": 16, "progress": 45 },
+      { "id": 17, "progress": 26 },
+      { "id": 22, "progress": 100 },
+      { "id": 23, "progress": 78 },
+      { "id": 25, "progress": 100 },
+      { "id": 30, "progress": 100 },
+      { "id": 31, "progress": 64 },
+      { "id": 32, "progress": 100 },
+      { "id": 33, "progress": 96 },
+      { "id": 39, "progress": 32 }
+    ],
+    "friendsOnline": 0,
+    "rank": 1526
+  }
+]

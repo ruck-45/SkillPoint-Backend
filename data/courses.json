@@ -4,319 +4,359 @@
     "name": "Python Programming Basics",
     "instructor": "John Doe",
     "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "5 weeks"
+    "thumbnail": "https://coderpad.io/wp-content/uploads/2022/09/coderpad-blogpost-python-red-1.png",
+    "duration": "5 weeks",
+    "enrolled": 221
   },
   {
     "id": 2,
     "name": "Data Science with R",
     "instructor": "Michael Johnson",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "enrollmentStatus": "Closing",
+    "thumbnail": "https://datos.gob.es/sites/default/files/styles/blog_image/public/blog/image/imagenes_post_22.jpg?itok=7qHhk92S",
+    "duration": "3 weeks",
+    "enrolled": 102
   },
   {
     "id": 3,
     "name": "Digital Marketing Masterclass",
     "instructor": "Emily Rodriguez",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "4 weeks"
+    "enrollmentStatus": "Closed",
+    "thumbnail": "https://img-b.udemycdn.com/course/750x422/4189040_84a8_3.jpg",
+    "duration": "4 weeks",
+    "enrolled": 514
   },
   {
     "id": 4,
     "name": "Introduction to Machine Learning",
     "instructor": "Daniel White",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "enrollmentStatus": "Closing",
+    "thumbnail": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Figure_1_Machine_learning.jpg",
+    "duration": "3 weeks",
+    "enrolled": 213
   },
   {
     "id": 5,
     "name": "Graphic Design Essentials",
     "instructor": "Sophie Turner",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "enrollmentStatus": "Closing",
+    "thumbnail": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2017/04/featuredtools4.png?w=960&h=600&crop=1",
+    "duration": "3 weeks",
+    "enrolled": 135
   },
   {
     "id": 6,
     "name": "Mobile App Development with Flutter",
     "instructor": "Alex Turner",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "4 weeks"
+    "enrollmentStatus": "Closed",
+    "thumbnail": "https://cdn.sanity.io/images/s7xbv9bz/production/661d55385bd44c59095277f9ae72c4bd2ad042b9-3200x2000.png",
+    "duration": "4 weeks",
+    "enrolled": 156
   },
   {
     "id": 7,
     "name": "Financial Planning and Budgeting",
     "instructor": "Robert Martinez",
     "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "thumbnail": "https://media.istockphoto.com/id/1214054918/vector/budget-management-app-personal-financial-control-cash-flow-tiny-woman-manages-the-personal.jpg?s=612x612&w=0&k=20&c=kPffn0lXROiTyEdrzXRNSb5bsnatjJgldNC4NAcAeWo=",
+    "duration": "3 weeks",
+    "enrolled": 962
   },
   {
     "id": 8,
     "name": "Photography Basics for Beginners",
     "instructor": "Olivia Brown",
     "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "4 weeks"
+    "thumbnail": "https://blogassets.leverageedu.com/blog/wp-content/uploads/2019/12/19112540/Photography-Courses.jpg",
+    "duration": "4 weeks",
+    "enrolled": 289
   },
   {
     "id": 9,
     "name": "Java Programming for Beginners",
     "instructor": "William Turner",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "enrollmentStatus": "Closing",
+    "thumbnail": "https://technogeekscs.com/wp-content/uploads/2022/02/Java-Full-Stack-Development.jpg",
+    "duration": "3 weeks",
+    "enrolled": 665
   },
   {
     "id": 10,
     "name": "Content Writing and Blogging",
     "instructor": "Eva Davis",
     "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "thumbnail": "https://www.henryharvin.com/blog/wp-content/uploads/2021/03/Blogpost-1024x1024.jpg",
+    "duration": "3 weeks",
+    "enrolled": 153
   },
   {
     "id": 11,
     "name": "Cybersecurity Fundamentals",
     "instructor": "Chris Anderson",
     "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "4 weeks"
+    "thumbnail": "https://bbs.edu.sg/wp-content/uploads/2022/01/Vector-Smart-Object.png",
+    "duration": "4 weeks",
+    "enrolled": 126
   },
   {
     "id": 12,
     "name": "Spanish Language Basics",
     "instructor": "Isabella Lopez",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "4 weeks"
+    "enrollmentStatus": "Closing",
+    "thumbnail": "https://media.istockphoto.com/id/1453852952/vector/spanish.jpg?s=612x612&w=0&k=20&c=osO54uBF4_OsGvHjbDON15g9lecjS2Jhw7QiaFZjSao=",
+    "duration": "4 weeks",
+    "enrolled": 651
   },
   {
     "id": 13,
     "name": "Advanced Excel Techniques",
     "instructor": "Matthew Harris",
     "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "thumbnail": "https://smdi.com.np/wp-content/uploads/2018/10/Excel-Training.jpg",
+    "duration": "3 weeks",
+    "enrolled": 456
   },
   {
     "id": 14,
     "name": "Creative Writing Workshop",
     "instructor": "Nina Thompson",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "5 weeks"
+    "enrollmentStatus": "Closing",
+    "thumbnail": "https://www.classcentral.com/report/wp-content/uploads/2022/02/Technical-Writing-Courses-Banner.png",
+    "duration": "5 weeks",
+    "enrolled": 526
   },
   {
     "id": 15,
     "name": "Introduction to Artificial Intelligence",
     "instructor": "Samuel Carter",
     "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "4 weeks"
+    "thumbnail": "https://data.org/wp-content/uploads/2022/04/AI.png",
+    "duration": "4 weeks",
+    "enrolled": 301
   },
   {
     "id": 16,
     "name": "Social Media Marketing Mastery",
     "instructor": "Hannah Turner",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "enrollmentStatus": "Closed",
+    "thumbnail": "https://www.bizgurukul.com/Biz/img/marketing-mastery.png",
+    "duration": "3 weeks",
+    "enrolled": 413
   },
   {
     "id": 17,
     "name": "Introduction to Astrophysics",
     "instructor": "Dr. Robert Johnson",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "enrollmentStatus": "Closing",
+    "thumbnail": "https://blogassets.leverageedu.com/blog/wp-content/uploads/2019/11/23171751/Astrophysics-Courses.jpg",
+    "duration": "3 weeks",
+    "enrolled": 602
   },
   {
     "id": 18,
     "name": "C++ Programming for Game Development",
     "instructor": "Lucas Anderson",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "enrollmentStatus": "Closing",
+    "thumbnail": "https://img-b.udemycdn.com/course/750x422/1115198_c91a_2.jpg",
+    "duration": "3 weeks",
+    "enrolled": 315
   },
   {
     "id": 19,
     "name": "Digital Illustration Workshop",
     "instructor": "Emma Davis",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "enrollmentStatus": "Closing",
+    "thumbnail": "https://cdn.dribbble.com/users/25514/screenshots/14283382/media/dbd5fb83302650df5013f8f944c03206.png?resize=400x300&vertical=center",
+    "duration": "3 weeks",
+    "enrolled": 301
   },
   {
     "id": 20,
     "name": "Introduction to Quantum Computing",
     "instructor": "Dr. Benjamin White",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "enrollmentStatus": "Closed",
+    "thumbnail": "https://img-c.udemycdn.com/course/750x422/1861396_aeb7_2.jpg",
+    "duration": "3 weeks",
+    "enrolled": 142
   },
   {
     "id": 21,
     "name": "French Language Essentials",
     "instructor": "Claire Martin",
     "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "4 weeks"
+    "thumbnail": "https://media.istockphoto.com/id/1079735964/vector/french-open-book-with-language-hand-drawn-doodles-and-lettering.jpg?s=612x612&w=0&k=20&c=CY0MTKxg5r6wl5rBheTRz7QqN4aSB3YoFumCOSQoqIo=",
+    "duration": "4 weeks",
+    "enrolled": 632
   },
   {
     "id": 22,
     "name": "Introduction to Cloud Computing",
     "instructor": "Ryan Adams",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "4 weeks"
+    "enrollmentStatus": "Closing",
+    "thumbnail": "https://res.cloudinary.com/boardinfinity/image/upload/t_blog_img/bi-websites/blog/11/Blog-sheet--2--14-.png",
+    "duration": "4 weeks",
+    "enrolled": 413
   },
   {
     "id": 23,
     "name": "Video Editing Fundamentals",
     "instructor": "Jordan Brown",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "enrollmentStatus": "Closing",
+    "thumbnail": "https://www.tgcindia.com/wp-content/uploads/2015/04/video-editing.gif",
+    "duration": "3 weeks",
+    "enrolled": 746
   },
   {
     "id": 24,
     "name": "JavaScript for Front-End Development",
     "instructor": "Grace Turner",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "enrollmentStatus": "Closed",
+    "thumbnail": "https://miro.medium.com/v2/resize:fit:1400/1*w7I4nocFk5wEqD4Dt8pfsg.png",
+    "duration": "3 weeks",
+    "enrolled": 625
   },
   {
     "id": 25,
     "name": "Business Analytics and Reporting",
     "instructor": "Paul Mitchell",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "4 weeks"
+    "enrollmentStatus": "Closed",
+    "thumbnail": "https://cdn.sanity.io/images/tlr8oxjg/production/2d8450596e26adafc8e47e88a65bce42104b732a-1456x816.png?w=3840&q=80&fit=clip&auto=format",
+    "duration": "4 weeks",
+    "enrolled": 614
   },
   {
     "id": 26,
     "name": "Music Production Essentials",
     "instructor": "Alexis Davis",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "enrollmentStatus": "Closed",
+    "thumbnail": "https://static.wixstatic.com/media/04a0f8_2c0d1183e3d848b2acc8c0077c687776~mv2.jpg/v1/fill/w_1280,h_720,al_c/04a0f8_2c0d1183e3d848b2acc8c0077c687776~mv2.jpg",
+    "duration": "3 weeks",
+    "enrolled": 465
   },
   {
     "id": 27,
     "name": "Introduction to Robotics",
     "instructor": "Dr. Sophia Adams",
     "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "4 weeks"
+    "thumbnail": "https://earlystemer.com/wp-content/uploads/2021/09/course-header-robotics-basics-min-1024x546.png",
+    "duration": "4 weeks",
+    "enrolled": 754
   },
   {
     "id": 28,
     "name": "Responsive Web Design",
     "instructor": "Liam Turner",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "enrollmentStatus": "Closing",
+    "thumbnail": "https://superdevresources.com/wp-content/uploads/2015/04/mobify1.jpg",
+    "duration": "3 weeks",
+    "enrolled": 103
   },
   {
     "id": 29,
     "name": "Python for Data Analysis",
     "instructor": "Julia White",
     "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "4 weeks"
+    "thumbnail": "https://img-c.udemycdn.com/course/750x422/4397644_1725_3.jpg",
+    "duration": "4 weeks",
+    "enrolled": 486
   },
   {
     "id": 30,
     "name": "Introduction to Game Design",
     "instructor": "Tom Roberts",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "enrollmentStatus": "Closed",
+    "thumbnail": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/823373186983.jpg",
+    "duration": "3 weeks",
+    "enrolled": 621
   },
   {
     "id": 31,
     "name": "SEO Fundamentals",
     "instructor": "Diana Clark",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "4 weeks"
+    "enrollmentStatus": "Closed",
+    "thumbnail": "https://www.elegantthemes.com/blog/wp-content/uploads/2022/01/shutterstock_1750687526.png",
+    "duration": "4 weeks",
+    "enrolled": 147
   },
   {
     "id": 32,
     "name": "Introduction to 3D Printing",
     "instructor": "Mark Turner",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "enrollmentStatus": "Closing",
+    "thumbnail": "https://learn.g2.com/hubfs/G2CM_FI141-Learn_Article_Images_%5B3D_printing%5D_V1a.png",
+    "duration": "3 weeks",
+    "enrolled": 486
   },
   {
     "id": 33,
     "name": "Spanish Cuisine Cooking Class",
     "instructor": "Chef Carlos Rodriguez",
     "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "5 weeks"
+    "thumbnail": "https://media.istockphoto.com/id/1143694775/vector/spanish-cuisine-illustrations-tapas-paella-sangria-jamon-churros-calcots-turron-for.jpg?s=612x612&w=0&k=20&c=Fz-0f458cCDshPooDf4oZZSWo5hSsbAsxhbLaAp3hX4=",
+    "duration": "5 weeks",
+    "enrolled": 631
   },
   {
     "id": 34,
     "name": "Public Speaking Mastery",
     "instructor": "Sarah Johnson",
     "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "thumbnail": "https://images.squarespace-cdn.com/content/v1/55718082e4b07325bff1ff28/a0f71999-7468-4a09-8a37-bc2047770947/bridge-between-two-heads.jpg",
+    "duration": "3 weeks",
+    "enrolled": 143
   },
   {
     "id": 35,
     "name": "Ethical Hacking and Cybersecurity",
     "instructor": "Kevin Turner",
     "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "4 weeks"
+    "thumbnail": "https://img-b.udemycdn.com/course/750x422/3653548_b5b9.jpg",
+    "duration": "4 weeks",
+    "enrolled": 625
   },
   {
     "id": 36,
     "name": "UX/UI Design Principles",
     "instructor": "Sophie Anderson",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "enrollmentStatus": "Closing",
+    "thumbnail": "https://blogct.creative-tim.com/blog/content/images/2022/07/UX-design-courses.jpg",
+    "duration": "3 weeks",
+    "enrolled": 746
   },
   {
     "id": 37,
     "name": "Introduction to Quantum Physics",
     "instructor": "Dr. Richard Turner",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "enrollmentStatus": "Closed",
+    "thumbnail": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/11/Particle_1200_social.jpg",
+    "duration": "3 weeks",
+    "enrolled": 966
   },
   {
     "id": 38,
     "name": "Adobe Illustrator Masterclass",
     "instructor": "Emma Roberts",
     "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "3 weeks"
+    "thumbnail": "https://static.skillshare.com/uploads/video/thumbnails/a8bd6ec4c456feb798d034590d30ebe2/original",
+    "duration": "3 weeks",
+    "enrolled": 416
   },
   {
     "id": 39,
     "name": "Blockchain Basics",
     "instructor": "Ryan White",
     "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "5 weeks"
+    "thumbnail": "https://bigdataldn.com/wp-content/uploads/2019/12/BC-Tech.jpg",
+    "duration": "5 weeks",
+    "enrolled": 636
   },
   {
     "id": 40,
     "name": "Web Development Fundamentals",
     "instructor": "Jessica Smith",
-    "enrollmentStatus": "Open",
-    "thumbnail": "web_dev_fundamentals.jpg",
-    "duration": "5 weeks"
+    "enrollmentStatus": "Closing",
+    "thumbnail": "https://media.licdn.com/dms/image/D4D12AQG9pkPorG_FMw/article-cover_image-shrink_600_2000/0/1680245911327?e=2147483647&v=beta&t=6PA6bLckKRngiYb5kIi8QpSDVf1FNo1trlld16uZrVM",
+    "duration": "5 weeks",
+    "enrolled": 456
   }
 ]
